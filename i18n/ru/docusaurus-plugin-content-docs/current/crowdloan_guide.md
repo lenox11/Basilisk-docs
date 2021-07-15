@@ -1,6 +1,6 @@
 ---
 id: crowdloan_guide
-title: Участвуйте в Crowdloan
+title: Принять участие в Crowdloan
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
