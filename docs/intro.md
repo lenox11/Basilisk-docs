@@ -1,23 +1,23 @@
 ---
 id: intro
-title: Introduction to Basilisk
+title: Знакомство с Basilisk 
 slug: /
 ---
 
-Welcome to the Basilisk Documentation page! Here you can find a collection of useful resources which will help you navigate your Basilisk journey. The available content will grow as the project unfolds, and we promise to do our best to provide translations in a timely manner to ensure that everyone can participate.
+Добро пожаловать на страницу документации Basilisk! Здесь вы можете найти коллекцию полезных ресурсов, которые помогут вам сориентироваться в вашем путешествии по Basilisk. Доступный контент будет расти по мере развития проекта, и мы обещаем сделать все возможное, чтобы своевременно предоставлять переводы, чтобы каждый мог принять участие.
 
-Before you continue, don't forget to subscribe to the [Basilisk newsletter](https://basiliskfi.substack.com) to not miss any important updates.
+Прежде чем продолжить, не забудьте подписаться на [информационный бюллетень Basilisk](https://basiliskfi.substack.com), чтобы не пропустить важные обновления.
 
-## Basilisk Crowdloan {#crowdloan}
+## Crowdloan Basilisk {#crowdloan}
 
-The Basilisk crowdloan for the Kusama parachain auctions is now live! Check out [this post](/basilisk_crowdloan) for more details, as well as [the step-by-step guide](/crowdloan_guide) on how to participate.
+Crowdloan Basilisk для аукционов парачейнов в Кусаме уже начался! Прочтите [этот пост](/basilisk_crowdloan) для получения более подробной информации, а также [пошаговое руководство](/crowdloan_guide) о том, как принять участие.
 
-Not feeling like you really understand concepts such as [parachains](/parachains), [parachain auctions](/parachain_auctions) or [crowdloans](/crowdloans)? Don't worry, we've got you covered! In our `Knowledge Base` you will find some useful introductory resources which will make you feel more comfortable with these subjects.
+Не чувствуете, что действительно понимаете такие концепции, как [парачейны](/parachains), [парачейн-аукционы](/parachain_auctions) или [crowdloans](/crowdloans)? Не волнуйтесь, мы о Вас позаботимся! В нашей «Базе знаний» вы найдете несколько полезных вводных ресурсов, которые помогут вам освоить эти предметы.
 
-## What is Basilisk? {#what-is-basilisk}
+## Что такое Basilisk? {#what-is-basilisk}
 
-Basilisk is a liquidity bootstrapping protocol built for Kusama. Its mission is to enable frictionless liquidity for the long tail crypto assets.
+Basilisk - это протокол начальной загрузки ликвидности, созданный для Kusama. Его миссия - обеспечить бесперебойную ликвидность для "длиннохвостых" криптоактивов.
 
-The modular design of Basilisk enables new crypto assets to bootstrap liquidity by choosing the Automated Market Maker (AMM) model which they find most convenient. The first version comes with implementations of a Liquidity Bootstrapping Pool (LBP) as well as XYK pools with order matching transactions. The following iterations will bring more advanced price discovery mechanisms to Basilisk such as auctions and bonding curves. An NFT marketplace is also on its way!
+Модульная конструкция Basilisk позволяет новым криптоактивам повышать ликвидность, выбирая модель Automated Market Maker (AMM), которую они считают наиболее удобной. Первая версия поставляется с реализациями пула загрузки ликвидности (LBP), а также пулов XYK с транзакциями сопоставления заказов. Следующие итерации принесут в Basilisk более продвинутые механизмы определения цен, такие как аукционы и кривые связывания. Торговая площадка NFT тоже в пути!
 
-Basilisk has close ties with [HydraDX](https://hydradx.io) which has set out to become the go-to liquidity provider on the Polkadot network. Together, Basilisk and HydraDX create a synergy which caters to the varying liquidity needs of cryptoassets throughout their entire lifecycle. Bootstrap liquidity in the early stages using a Basilisk AMM, then move on to the HydraDX Omnipool to unlock unprecedented cross-chain liquidity in an ocean of assets.
+Basilisk имеет тесные связи с [HydraDX](https://hydradx.io), которая намеревается стать поставщиком ликвидности в сети Polkadot. Вместе Basilisk и HydraDX создают синергию, которая удовлетворяет различные потребности криптоактивов в ликвидности на протяжении всего их жизненного цикла. Загрузите ликвидность на ранних этапах с помощью Basilisk AMM, затем переходите к HydraDX Omnipool, чтобы разблокировать беспрецедентную межсетевую ликвидность в океане активов.
