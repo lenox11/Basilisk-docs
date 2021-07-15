@@ -3,7 +3,7 @@ id: parachains
 title: Парачейны
 ---
 
-One of the most distinctive features of Polkadot and Kusama is the support of parachains. Parachains are individual blockchains built on Substrate which are designed to handle specific use-cases and which are connected to the so-called relay chain (i.e. Kusama or Polkadot).
+Одна из самых отличительных особенностей Polkadot и Kusama - поддержка парачейнов. Парачейны - это отдельные блокчейны, построенные на Substrate, которые предназначены для обработки определенных вариантов использования и которые подключены к так называемой цепочке реле (например, Kusama или Polkadot).
 
 Для лучшего понимания парачейнов и их места в сети в этой статье рассматриваются некоторые из их определяющих характеристик: [специализация](#specialization), [общая безопасность](#shared-security), [масштабируемость](#scalability) и [интероперабельность](#interoperability).
 
