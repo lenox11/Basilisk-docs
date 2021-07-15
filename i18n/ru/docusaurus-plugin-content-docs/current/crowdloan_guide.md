@@ -17,7 +17,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::
 
-## 00 Пользовательскому интерфейсу Crowdloan {#00-crowdloan-ui}
+## 00 Пользовательский интерфейс Crowdloan {#00-crowdloan-ui}
 
 Чтобы получить доступ к пользовательскому интерфейсу Basilisk Crowdloan, перейдите по адресу https://loan.bsx.fi.
 
